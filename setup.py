@@ -19,6 +19,9 @@ setup(
         "librosa",
         "openl3",
         "nnAudio",
-        "imageio"
+        "imageio",
+        "pandas",
+        "kymatio @ git+https://github.com/kymatio/kymatio.git",
+        "tensorflow-hub",
     ],
 )
